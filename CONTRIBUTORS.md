@@ -18,6 +18,7 @@
   plugin)
 * [MiniDigger](https://github.com/MiniDigger): developer of [MiniMessage](https://github.com/MiniDigger/MiniMessage) (
   used in this plugin)
+* [Boy](https://github.com/Boy0000) adds new features that breaks others
 
 ### Early supporters
 
@@ -93,6 +94,7 @@
 
 * Jeroen
 * [craterhater](https://www.spigotmc.org/members/craterhater.49025/)
+* [Masaki](https://www.spigotmc.org/members/espartaprojunior.1302966/)
 
 ## I would like to join this list. How can I help the project?
 
